@@ -1,0 +1,46 @@
+body{ 
+    margin: 0%;
+    display: flex;
+    flex-direction: column;  
+    
+}
+.cinco{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.body{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+
+.page .header{
+    background-color: #1F2937;
+    padding-left: 15%;
+    padding-right: 15%;
+
+    
+}
+.zero{
+    ;
+    display: flex;
+    justify-content: space-between;
+    ;
+}
+.zero p{
+    color: white;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 5px;
+    
+}
+
+.uno{
+    ;
+}
+
+.cinco{
+    background-color: #1F2937
+}
